@@ -1,6 +1,6 @@
 # FinanceOS — Personal Finance Dashboard
 
-> Built by **Sujan Anandh** · [GitHub](https://github.com/sujan)
+> Built by **Sujan Anandh** · [GitHub](https://github.com/SujanTheMagician)
 
 A full-featured personal finance web app with animated dark UI, built with React + Vite + Recharts.
 
@@ -39,4 +39,4 @@ npm run preview
 ```
 
 ---
-*Designed for portfolio showcase · SCermlind Healthcare Innovations Private Limited*
+*Designed for portfolio showcase · 
